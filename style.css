@@ -1,0 +1,28 @@
+body {
+    color: #fff;
+    padding: 50px;
+    background-color: #b028d6;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 100px;
+  }
+  
+  button {
+    background-color: #ff0000;
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 5px;
+    margin: 2px ;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 50px;
+  }
+  
+  p{
+    color: rgb(72, 80, 0);
+    font-size: 100px;
+
+  }
